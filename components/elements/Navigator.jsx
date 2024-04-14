@@ -33,6 +33,7 @@ const Navigator = () => {
       },
     ];
   }, [pathname]);
+
   return (
     <div>
       <section className="flex flex-col gap-2 p-4">
